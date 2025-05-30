@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": "production"
+  },
+  "deploy": {
+    "startCommand": "python app.py"
+  }
+}
